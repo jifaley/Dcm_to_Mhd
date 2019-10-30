@@ -1,2 +1,2 @@
 # Dcm_to_Mhd
-A simple dicom to Mhd Convert using Convert3d
+A simple dicom to Mhd/raw Convert using Convert3d
