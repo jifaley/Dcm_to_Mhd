@@ -3,7 +3,7 @@
 int main()
 {
 	std::vector<std::string> files;
-	std::string parent_dir = R"(C:\Documents\jifaley\data\compression learning test\MRI)";
+	std::string parent_dir = R"(..\..\R_004)";
 
 	getFilesFromDirectory(files, parent_dir.c_str()); 
 
